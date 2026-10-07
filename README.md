@@ -1,6 +1,5 @@
 <!-- ============================================================
   PROFILE README  |  repo name MUST be exactly: LorandPervizaj/LorandPervizaj
-  Replace the 3 YOUR_* placeholders in the Connect section.
   Contribution snake needs .github/workflows/snake.yml (included).
 ============================================================ -->
 
@@ -23,7 +22,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=LorandPervizaj&label=Profile+views&color=7aa2f7&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/github/followers/LorandPervizaj?label=Followers&style=flat-square&color=7aa2f7" alt="followers"/>
 <img src="https://img.shields.io/badge/Based%20in-Prishtina%2C%20Kosovo-1a1b27?style=flat-square&logo=googlemaps&logoColor=7aa2f7" alt="location"/>
 
@@ -217,7 +215,6 @@ flowchart TD
 
 <img src="https://streak-stats.demolab.com?user=LorandPervizaj&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LorandPervizaj&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -231,14 +228,6 @@ flowchart TD
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorandPervizaj/LorandPervizaj/output/github-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/LorandPervizaj/LorandPervizaj/output/github-snake-dark.svg"/>
 </picture>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LorandPervizaj&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
 </div>
 
 ---
